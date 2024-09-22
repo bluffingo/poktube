@@ -2,4 +2,4 @@
 
 # PokTube Skin for OpenSB
 This is a very incomplete skin that emulates the classic "PokTube" interface on OpenSB. 
-PokTube was squareBracket's first name from when it first launched around the start of 2021.
+PokTube was SquareBracket's first name from when it first launched around the start of 2021.
